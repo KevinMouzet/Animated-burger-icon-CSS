@@ -20,7 +20,7 @@ Tested in IE11, Firefox 64, Edge 44 and Chrome 71.
     /* animated burger icon */
     :root {
       --burger_background_color: transparent;
-      --burger_color: #ffffff;
+      --burger_color: #000000;
     }
     
     .burgerIcon {
