@@ -1,6 +1,6 @@
 # Slide Menu with burger
 
-A simple, lightweight, animated burger icon with only CSS. 
+A simple, lightweight, animated burger icon with only CSS. From burger to cross on click
 
 Tested in IE11, Firefox 64, Edge 44 and Chrome 71.
 
